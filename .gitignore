@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ASP.NET WebForms 專案特有的忽略項目
+Web.config
+*.mdf
+*.ldf
+*.PublishSettings
+*.pubxml
+*.publishproj
+PublishProfiles/
