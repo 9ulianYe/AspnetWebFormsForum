@@ -370,3 +370,6 @@ Web.config
 *.pubxml
 *.publishproj
 PublishProfiles/
+/AspnetWebFormsForum/Web.config
+/AspnetWebFormsForum/Web.Debug.config
+/AspnetWebFormsForum/Web.Release.config
